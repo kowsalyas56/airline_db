@@ -6,6 +6,7 @@ To design and analyze an Airline Management Database using MySQL in order to und
 
 ## Dataset Used
 
+```text
 The dataset consists of  Five relational tables created manually to simulate real-world airline operations
 
     - Airline (airline details and number of flights)
@@ -25,26 +26,26 @@ The dataset consists of  Five relational tables created manually to simulate rea
   - Developed multiple SQL Views for data analysis
   - Created Stored Procedures for advanced queries
 
-## 🔹 Views Created:
+## 🔹 Views Created
 
-  ✔ Passenger count by booking status
-  ✔ Passenger count by payment status
-  ✔ Top 5 flights with highest passengers
-  ✔ Bookings made in 2024
-  ✔ Airline-wise total flights operated
+  - Passenger count by booking status
+  - Passenger count by payment status
+  - Top 5 flights with highest passengers
+  - Bookings made in 2024
+  - Airline-wise total flights operated
 
 ## 🔹 Stored Procedures
 
-  ✔ Top 3 payments below total sum
-  ✔ Senior citizens traveling by flight
-  ✔ Top 3 frequently used flight routes
+  - Top 3 payments below total sum
+  - Senior citizens traveling by flight
+  - Top 3 frequently used flight routes
 
-## Through this project, I strengthened my skills in:
+## Through this project, I strengthened my skills in
 
-  ✅ Database Design
-  ✅ SQL Queries
-  ✅ Views & Stored Procedures
-  ✅ Relational Database Management
+  - Database Design
+  - SQL Queries
+  - Views & Stored Procedures
+  - Relational Database Management
 
 ## Final Conclusion
 
