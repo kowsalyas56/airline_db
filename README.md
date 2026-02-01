@@ -6,11 +6,15 @@ To design and analyze an Airline Management Database using MySQL in order to und
 
 ## Dataset Used
 
-    - Airline -> airline details and number of flight                 
-    - Flight -> flight routes, locations, departure dates              
-    - Passenger -> passenger details and age information
-    - Booking -> booking records and status
-    - Payment ->payment amount, method, and status
+  The database includes 5 main tables:
+
+| Table Name | Description |
+| :--- | :--- |
+| airline | Airline details and number of flights |
+| flight | Flight routes, locations, and departure dates |
+| passenger | Passenger details and age information |
+| booking | Booking records and status |
+| payment | Payment details, method, and status |
 
 ## 🔹 Key Highlights
 
