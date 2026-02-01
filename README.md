@@ -5,14 +5,12 @@
 To design and analyze an Airline Management Database using MySQL in order to understand flight operations, passenger trends, booking status, payment performance, and airline efficiency through structured SQL queries, views, and stored procedures.
 
 ## Dataset Used
-The dataset consists of Five relational tables created manually to simulate real-world airline operations.
 
-```text
-- Airline (airline details and number of flights)
-- Flight (flight routes, locations, departure dates)
-- Passenger (passenger details and age information)
-- Booking (booking records and status)
-- Payment (payment amount, method, and status)
+    - Airline -> airline details and number of flight                 
+    - Flight -> flight routes, locations, departure dates              
+    - Passenger -> passenger details and age information
+    - Booking -> booking records and status
+    - Payment ->payment amount, method, and status
 
 ## 🔹 Key Highlights
 
